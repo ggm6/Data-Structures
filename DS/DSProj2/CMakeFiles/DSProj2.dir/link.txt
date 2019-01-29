@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/DSProj2.dir/1287_316p2.cpp.o  -o DSProj2 -rdynamic 

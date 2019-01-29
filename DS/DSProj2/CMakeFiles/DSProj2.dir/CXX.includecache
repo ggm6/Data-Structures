@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/garrett/Documents/DSProj2/1287_316p2.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cmath
+-
+limits
+-
+1287_316p2.hpp
+/home/garrett/Documents/DSProj2/1287_316p2.hpp
+
+/home/garrett/Documents/DSProj2/1287_316p2.hpp
+
